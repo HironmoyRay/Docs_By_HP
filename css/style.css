@@ -7,3 +7,16 @@
 .underline{
     text-decoration-line: underline;
 }
+
+.left-align{
+    text-align: left;
+}
+.right-align{
+    text-align: right;
+}
+.center-align{
+    text-align: center;
+}
+.justify-align{
+    text-align: justify;
+}
